@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-scale '/usr/share/endeavouros/backgrounds/eos_wallpapers_community/eos_xfcei3_2.png' 
